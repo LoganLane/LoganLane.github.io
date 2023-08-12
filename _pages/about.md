@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Coming Soon! 
+Hello! My name is Logan Lane. I am a third year PhD student at Virginia Tech.  
