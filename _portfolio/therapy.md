@@ -1,6 +1,6 @@
 ---
 title: "Remote VR Social Pragmatics Therapy"
-excerpt: "(Work-In-Progress) Project that allows a speech-language pathologist to provide social skill intervention with clients diagnosed with autism spectrum disorder in simulated social scenarios <br/><img src='/images/500x300.png'>"
+excerpt: "(Work-In-Progress) Project that allows a speech-language pathologist to provide social skill intervention with clients diagnosed with autism spectrum disorder in simulated social scenarios <br/><img src='/images/bowlingtherapy.png'>"
 collection: portfolio
 ---
 
