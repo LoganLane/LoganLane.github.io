@@ -4,7 +4,9 @@ excerpt: "(Work-In-Progress) Project that allows a speech-language pathologist t
 collection: portfolio
 ---
 
-This project is currently a work-in-progress and the eventual end-goal is to publish a paper with this work. 
+**This project is currently a work-in-progress and the eventual end-goal is to publish a paper with this work**
+
+![Bowling Alley Environment](/images/bowlingtherapy.png)
 
 I am working with [Dr. Diane Millar](https://www.radford.edu/content/wchs/home/cosd/about/faculty.html) and [Emilee Lane (My Wife :))](https://www.linkedin.com/in/emilee-helbert/) on a project that allows us to use VR as a therapy tool for social pragmatic training for individuals with autism. Clients will be in different simulated social contexts (e.g., classroom, pool, bowling alley, etc.) in which the clinician and client will complete different therapy exercises inside of the virtual environments. Clinicians can reward clients with "coins" in order to allow them to play different games within a specific virtual environment as a reward for meeting criteria in targeted therapy exercises. 
 
