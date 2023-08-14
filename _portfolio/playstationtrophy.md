@@ -9,3 +9,7 @@ Utilizing JSON files obtained from Sony's PSN backend through this [API](https:/
 
 
 
+https://github.com/LoganLane/LoganLane.github.io/assets/34287344/391f0742-bd95-4cb7-9b42-91922b58ced3
+
+
+
