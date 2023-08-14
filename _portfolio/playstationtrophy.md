@@ -1,6 +1,6 @@
 ---
 title: "PlayStation VR Trophy Room"
-excerpt: "Project that allows users to view their PlayStation Trophy collection in virtual reality <br/><img src='/images/500x300.png'>"
+excerpt: "Project that allows users to view their PlayStation Trophy collection in virtual reality <br/><img src='/images/trophy.png'>"
 collection: portfolio
 ---
 I envisioned and developed a project simulating what Sony's official implementation of a VR trophy room might look like on the PlayStation VR 2 platform.
