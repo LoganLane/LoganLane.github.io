@@ -1,6 +1,6 @@
 ---
 title: "AR Tabletop Football Experience"
-excerpt: "Allows the user to experience plays from a football game in augmented reality on a table<br/><img src='/images/500x300.png'>"
+excerpt: "Allows the user to experience plays from a football game in augmented reality on a table<br/><img src='/images/FootballAR.png'>"
 collection: portfolio
 ---
 
