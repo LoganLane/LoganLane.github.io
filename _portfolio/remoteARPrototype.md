@@ -4,4 +4,4 @@ excerpt: "Prototype that simulates remote collaboration in augmented reality usi
 collection: portfolio
 ---
 
-This prototype was created in support of a currently unpublished research paper that looks at the effects assisting the user during the start of a collaboration session can have on the collaboration experience as a whole. The prototype...
+This program was created in support of a currently unpublished research paper that looks at the effects assisting the user during the start of a collaboration session can have on the collaboration experience as a whole. The program allows two users 
