@@ -8,10 +8,11 @@ This prototype, developed during a data visualization course, makes use of game 
 
 I argued in class that an innovative tool like this has immense potential for coaches and players, potentially revolutionizing the way football teams analyze game footage.
 
-<video controls>
+<video controls width="640" height="360">
   <source src="https://github.com/LoganLane/LoganLane.github.io/assets/34287344/6aecd489-ff53-4632-8b39-902ac085826c" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 
 
