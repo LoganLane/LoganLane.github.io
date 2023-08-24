@@ -1,6 +1,6 @@
 ---
 title: "AR Collaboration Prototype (Official Name TBD)"
-excerpt: "Prototype that simulates remote collaboration in augmented reality using shared whiteboards<br/><img src='/images/500x300.png'>"
+excerpt: "Prototype that simulates remote collaboration in augmented reality using shared whiteboards<br/><img src='/images/Collaboration splash screen.png'>"
 collection: portfolio
 ---
 
