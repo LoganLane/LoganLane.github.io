@@ -3,7 +3,7 @@ title: "AR Remote Whiteboard Collaboration Prototype (Official Name TBD)"
 excerpt: "Prototype that simulates remote collaboration in augmented reality using shared whiteboards<br/><img src='/images/Collaboration splash screen.png'>"
 collection: portfolio
 ---
-![Manual]('/images/manual.gif')
+![Manual](/images/manual.gif)
 
 This program was created in support of a currently unpublished research paper that looks at the effects assisting the user during the start of a collaboration session can have on the collaboration experience as a whole. 
 
