@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Logan Lane. I'm currently in my third year as a PhD student at Virginia Tech, and conducting AR/VR research under the guidance of [Dr. Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/). I am a member of the [3D Interaction Group](https://wordpress.cs.vt.edu/3digroup/) and the [Center for Human-Computer Interaction](https://hci.icat.vt.edu) at Virginia Tech.
+Hello! I'm Logan Lane. I'm currently in my third year as a PhD student at Virginia Tech, and conducting augmented and virtual reality research under the guidance of [Dr. Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/). I am a member of the [3D Interaction Group](https://wordpress.cs.vt.edu/3digroup/) and the [Center for Human-Computer Interaction](https://hci.icat.vt.edu) at Virginia Tech.
 
 Before joining Virginia Tech, I completed my Bachelor's of Science in Management and Information Systems from [The University of Virginia's College at Wise](https://www.uvawise.edu), with minors in Computer Science and Business Administration. It's been an exciting journey so far!
 
-My research lies in the intersections of Human-Computer Interaction (HCI), Augmented and Virtual Reality, and collaboration. I am currently working on prototyping collaborative VR/AR experiences using Unity and Photon Networking technologies. 
+My research lies in the intersections of Human-Computer Interaction (HCI), Augmented and Virtual Reality, and collaboration. I am currently working on prototyping collaborative AR/VR experiences using Unity and Photon Networking technologies. 
 
 As I continue to expand my research and skills, I'm on the lookout for internships for the summer 2024 season. Feel free to [reach out](mailto:logantl@vt.edu) with any opportunities!
 
