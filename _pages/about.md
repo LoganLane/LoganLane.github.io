@@ -14,5 +14,7 @@ Before joining Virginia Tech, I completed my Bachelor's of Science in Management
 
 My research lies in the intersections of Human-Computer Interaction (HCI), Augmented and Virtual Reality, and collaboration. I am currently working on prototyping collaborative AR/VR experiences using Unity and Photon Networking technologies. 
 
-As I continue to expand my research and skills, I'm on the lookout for internships for the summer 2024 season. Feel free to [reach out](mailto:logantl@vt.edu) with any opportunities!
+<h2>Timeline</h2>
+![Static Badge](https://img.shields.io/badge/Joined%20Virginia%20Tech%20as%20a%20Ph.D%20Student-%20?style=flat&label=August%202021&labelColor=CF4420&color=630031)
+
 
