@@ -15,6 +15,8 @@ Before joining Virginia Tech, I completed my Bachelor's of Science in Management
 My research lies in the intersections of Human-Computer Interaction (HCI), Augmented and Virtual Reality, and collaboration. I am currently working on prototyping collaborative AR/VR experiences using Unity and Photon Networking technologies. 
 
 <h2>Timeline</h2>
+![Static Badge](https://img.shields.io/badge/Graduated%20From%20Virginia%20Tech%20with%20Master's%20Degree%20in%20Computer%20Science-%20?style=flat&label=May%202024&labelColor=CF4420&color=630031)
+
 ![Static Badge](https://img.shields.io/badge/Joined%20NASA%20as%20a%20Human%20Factors%20AR%2FVR%20Engineering%20Intern-%20?style=flat&label=June%202024&labelColor=CF4420&color=630031)
 
 ![Static Badge](https://img.shields.io/badge/Presented%203DUI%20Contest%20Entry%20at%20IEEE%20VR%202024-%20?style=flat&label=March%202024&labelColor=CF4420&color=630031)
