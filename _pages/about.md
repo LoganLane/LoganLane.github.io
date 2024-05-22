@@ -24,6 +24,8 @@ My research lies in the intersections of Human-Computer Interaction (HCI), Augme
 
 ![Static Badge](https://img.shields.io/badge/Led%20Team%20to%20Create%20Entry%20for%20IEEE%20VR%202024%203DUI%20Contest-%20?style=flat&label=February%202024&labelColor=CF4420&color=630031)
 
+![Static Badge](https://img.shields.io/badge/IEEE%20VR%202023%203DUI%20Contest%20Entry%20Published-%20?style=flat&label=March%202023&labelColor=CF4420&color=630031)
+
 ![Static Badge](https://img.shields.io/badge/Passed%20Ph.D.%20Qualifying%20Exam-%20?style=flat&label=March%202023&labelColor=CF4420&color=630031)
 
 ![Static Badge](https://img.shields.io/badge/Joined%20the%203D%20Interaction%20Group-%20?style=flat&label=December%202021&labelColor=CF4420&color=630031)
