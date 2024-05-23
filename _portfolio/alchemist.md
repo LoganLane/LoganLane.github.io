@@ -7,5 +7,8 @@ This project was created as the 3D Interaction Group's entry to the IEEE VR 2024
 
 The Alchemist is a game that allows elementary-aged children to practice using each of the four basic arithmetic operators in VR by using fun and engaging gestures to perform operations. Reception to our project was very positive with the attendees of IEEE VR 2024. The paper associated with the project can be read here. The following video was shown at the conference and showcases the gameplay loop of The Alchemist and the operator gestures. 
 
-https://github.com/LoganLane/LoganLane.github.io/assets/34287344/892944d1-54a4-45aa-abee-358404beb6b1
+<video controls width="640" height="360">
+  <source src="https://github.com/LoganLane/LoganLane.github.io/assets/34287344/892944d1-54a4-45aa-abee-358404beb6b1" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
