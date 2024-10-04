@@ -16,7 +16,7 @@ My research lies in the intersections of Human-Computer Interaction (HCI), Augme
 
 <h2>Timeline</h2>
 
-![Static Badge](https://img.shields.io/badge/Awarded%20the%20RADM%20Fred%20Lewis%20Scholarship%20at%20I/ITSEC%202024-August%202024-%20?style=flat&labelColor=CF4420&color=630031)
+![Static Badge](https://img.shields.io/badge/August%202024-Awarded%20the%20RADM%20Fred%20Lewis%20Scholarship%20at%20I/ITSEC%202024-%20?style=flat&labelColor=CF4420&color=630031)
 
 ![Static Badge](https://img.shields.io/badge/Joined%20NASA%20as%20a%20Human%20Factors%20AR%2FVR%20Engineering%20Intern-%20?style=flat&label=June%202024&labelColor=CF4420&color=630031)
 
