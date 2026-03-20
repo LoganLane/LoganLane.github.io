@@ -1,6 +1,6 @@
 ---
 title: "3D Interaction Study Interfaces for Additive Model Validation"
-excerpt: "AR study interfaces built on the Magic Leap 2 for evaluating KLM-style additive models across six input modalities including gaze, controller, and direct touch.<br/><img src='/images/additive_models.png'>"
+excerpt: "AR study interfaces built on the Magic Leap 2 for evaluating KLM-style additive models across six input modalities including gaze, controller, and direct touch.<br/><img src='/images/additive.png'>"
 collection: portfolio
 ---
 
