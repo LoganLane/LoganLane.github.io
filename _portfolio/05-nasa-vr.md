@@ -10,4 +10,4 @@ During a Human Factors Engineering internship at NASA, I contributed to a VR sim
 
 My contributions focused on designing and implementing the interactions astronauts would use within the simulation environment, as well as contributing to the broader development of the experience. The project required close collaboration with human factors specialists and mission planners to ensure the simulation accurately reflected the operational context astronauts would encounter.
 
-**Stack:** VR, Unity
+**Stack:** VR, Varjo XR-4, Unreal Engine 5
