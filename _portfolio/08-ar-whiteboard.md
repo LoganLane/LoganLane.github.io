@@ -1,6 +1,6 @@
 ---
 title: "Collaborative AR Whiteboarding System"
-excerpt: "A collaborative AR system exploring how varying levels of user control during session initialization affect remote collaboration experience.<br/><img src='/images/whiteboard_collab.png'>"
+excerpt: "A collaborative AR system exploring how varying levels of user control during session initialization affect remote collaboration experience.<br/><img src='/images/whiteboard.png'>"
 collection: portfolio
 ---
 
