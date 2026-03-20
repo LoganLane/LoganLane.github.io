@@ -1,6 +1,6 @@
 ---
 title: "NASA Lunar South Pole VR Simulation"
-excerpt: "A VR simulation designed to help astronauts acclimate to the extreme lighting conditions of the lunar south pole, developed during a Human Factors Engineering internship at NASA.<br/><img src='/images/nasa_vr.png'>"
+excerpt: "A VR simulation designed to help astronauts acclimate to the extreme lighting conditions of the lunar south pole, developed during a Human Factors Engineering internship at NASA.<br/><img src='/images/nasa.png'>"
 collection: portfolio
 ---
 
