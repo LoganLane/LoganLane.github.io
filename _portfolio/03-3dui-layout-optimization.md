@@ -6,7 +6,7 @@ collection: portfolio
 **Developed in collaboration with [Ben Tatum](https://www.linkedin.com/in/btatum26/)**
 
 <video controls width="640" height="360">
-  <source src="https://github.com/user-attachments/assets/9690551d-9f31-4495-a2fb-fac8cb567be5" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/f531965e-2f38-4972-aca9-8dd964fc1af0" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
