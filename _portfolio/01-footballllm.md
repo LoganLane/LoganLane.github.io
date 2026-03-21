@@ -11,8 +11,3 @@ The system was originally designed to run inference locally using vLLM with a qu
 **Stack:** Python, FastAPI, DuckDB, vLLM, Docker, SQLite, VT ARC LLM API
 
 [View on GitHub](https://github.com/LoganLane/FootballLLM)
-
-## Demo
-
-<!-- Replace the URL below with your actual YouTube or video link once recorded -->
-[Watch Demo](YOUR_VIDEO_URL_HERE)
