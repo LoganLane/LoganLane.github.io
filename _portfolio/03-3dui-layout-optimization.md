@@ -5,11 +5,10 @@ collection: portfolio
 ---
 **Developed in collaboration with [Ben Tatum](https://www.linkedin.com/in/btatum26/)**
 
-<video controls width="640" height="360">
-  <source src="https://github.com/user-attachments/assets/f531965e-2f38-4972-aca9-8dd964fc1af0" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<iframe width="640" height="360" 
+  src="https://www.youtube.com/embed/ucV9BI6wS_E" 
+  frameborder="0" allowfullscreen>
+</iframe>
 
 As part of my dissertation research on predictive modeling of human performance for 3D user interfaces, I developed a pipeline that uses GPU parallelization to exhaustively evaluate large numbers of candidate 3D UI layouts. The system applies predictive models — including Fitts' law extensions for 3D interaction tasks — to score layouts based on estimated task completion time across a wide range of user configurations.
 
