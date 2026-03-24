@@ -11,7 +11,7 @@ redirect_from:
 Hello! I'm Logan Lane. I'm currently a 5th year Ph.D. candidate at Virginia Tech, conducting research under the guidance of Dr. Doug Bowman in the 3D Interaction Group. I am also a member of the Center for Human-Computer Interaction at Virginia Tech.
 
 My dissertation research focuses on predictive modeling of human performance for 3D user interfaces in XR environments. Specifically, I'm interested in how we can use models like Fitts' law to better understand and anticipate user behavior in 3D interaction tasks and how those models can inform the design of more effective XR interfaces.
-Before joining Virginia Tech, I completed my Bachelor's of Science in Management and Information Systems from The University of Virginia's College at Wise, with minors in Computer Science and Business Administration.
+Before joining Virginia Tech, I earned my Bachelor's of Science in Management and Information Systems from The University of Virginia's College at Wise, with minors in Computer Science and Business Administration.
 
 Outside of my dissertation work, I completed a Human Factors Engineering internship at NASA where I contributed to a VR simulation designed to help astronauts acclimate to the extreme lighting conditions of the lunar south pole, including designing the interactions astronauts would use within the environment. I also enjoy exploring the intersections of XR and sports technology.
 
