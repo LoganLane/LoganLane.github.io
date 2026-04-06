@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Logan Lane"
-excerpt: "About me"
+excerpt: "The professional portfolio of Logan Lane, a Ph.D. candidate and AR/VR Researcher at Virginia Tech's 3D Interaction Group."
 author_profile: true
 redirect_from: 
   - /about/
