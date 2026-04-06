@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Logan Lane - 3DI@VT"
+title                    : "AR/VR Researcher - 3DI@VT" 
 title_separator          : "-"
 name                     : &name "Logan Lane"
-description              : &description "personal description"
+description              : &description "The professional portfolio of Logan Lane, a Ph.D. candidate and AR/VR Researcher at Virginia Tech's 3D Interaction Group."
 url                      : https://loganlane.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
