@@ -6,9 +6,9 @@ collection: portfolio
 
 ![Manual](/images/manual.gif)
 
-This project investigated how the level of user control during the initialization of a shared AR whiteboarding session affects the overall collaboration experience. We designed and evaluated three initialization techniques — MANUAL, DISCRETE CHOICE, and AUTOMATIC — using a simulated AR environment built in VR on the Meta Quest 2.
+This project investigated how the level of user control during the initialization of a shared AR whiteboarding session affects the overall collaboration experience. We designed and evaluated three initialization techniques (MANUAL, DISCRETE CHOICE, and AUTOMATIC) using a simulated AR environment built in VR for the Meta Quest 2.
 
-The system allowed two remote collaborators to establish a shared virtual whiteboard within their respective physical environments, synchronizing avatar positions, gaze direction, and pointer interactions across both spaces. We developed C-SAW (Collaborative Surface Algorithm for Whiteboarding), a set of heuristics for intelligently suggesting whiteboard placements that respect the constraints of each collaborator's environment.
+Using Photon PUN 2, the system allowed two remote collaborators to establish a shared virtual whiteboard within their individual,  respective physical environments, synchronizing avatar positions, gaze direction, and pointer interactions across both spaces. We developed C-SAW (Collaborative Surface Algorithm for Whiteboarding), a set of heuristics for intelligently suggesting whiteboard placements that respect the constraints of each collaborator’s environment.
 
 A user study with 36 participants found that collaborators preferred having direct control over whiteboard placement, size, and shape, even when automated suggestions were available.
 
